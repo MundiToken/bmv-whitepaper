@@ -1,3 +1,3 @@
 # Table of contents
 
-* [whitepaper-bmv](README.md)
+* [Whitepaper](README.md)
