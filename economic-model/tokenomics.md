@@ -25,7 +25,7 @@ Rise in the general level of prices for goods and services in an economy. Inflat
 A decrease in the general level of prices for goods and services. This occurs when consumers and entities anticipate falling prices, and therefore decide not to buy more now and wait for these items become more affordable. Deflation occurs when the supply of money is smaller than the total output of an economy. Also known as "price deflation."
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="Supply-and-demand elasticity" %}
 If a coin has high supply-and-demand elasticity, its price will be more affected by changes in demand relative to its supply. This means that if demand for a particular coin rises, the coin will experience more positive price action (\$$) than if demand for the same coin fell.
 
 <mark style="color:green;">Supply and Demand Elasticity</mark> = (% change in quantity supplied) / (% change in quantity demanded).
