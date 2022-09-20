@@ -8,9 +8,7 @@ Thanks to the OBVMA algorithm, which can be executed every hour or twice a day, 
 
 At the moment that the "whale" releases the tokens, the same algorithm will analyze the amount of daily movement of tokens and send them to the central bank to carry out a process of destruction or expiration. These tokens can enter a state of "limbo" waiting to be released to compensate the purchase of another "whale" or deliver it to users gradually, following demand policies for the organic growth of the economy.
 
-### <mark style="color:purple;">Inflation</mark>
-
-### <mark style="color:purple;">Burn Policy</mark>
+### <mark style="color:purple;">Inflation and Burning Policy</mark>
 
 “Burning” **MDTCoin** means permanently removing a number of tokens from circulation. This is typically done by transferring the tokens in question to a burn address, i.e. a wallet from which they cannot ever be retrieved. This is often described as destroying tokens. A project burns its tokens to reduce the overall supply. In other words, it creates a "deflationary" event.
 
