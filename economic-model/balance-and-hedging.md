@@ -32,3 +32,7 @@ If each consumer maximizes the value they get from the asset by consuming as muc
 
 #### <mark style="color:green;">How it applies to our ecomomy</mark>
 
+BMVs token is semi-ancored to the index price of a set of commodities. As a utility token, it might have price variations, but they should not surpass a 50% YTY pricing in trading ecossystem.
+
+Self-owned wallets with a high volume of token ownership migth send ask orders with an underprice, compromising the price variation of the whole ecomomy. As this occurance will affect all token holders we face a Tragey of the Commons case.
+
