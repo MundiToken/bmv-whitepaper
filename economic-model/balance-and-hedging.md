@@ -55,4 +55,3 @@ This strategy is a popular solution to overcoming the tragedy of the commons as 
 {% endhint %}
 
 Before the English enclosures laws, customary arrangements among rural villagers managed their use and conservation. By limiting use to local farmers and herders, managing use through practices such as crop rotation and seasonal grazing, and providing enforceable sanctions against overuse and abuse of the resource, these collective action arrangements readily overcame the tragedy of the commons, relying on measures to address the good’s rivalry in consumption by regulating consumption.
-
