@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxoYW5kc3xlbnwwfHx8fDE2NjM2OTQ1NTA&ixlib=rb-1.2.1&q=80
+coverY: -411.13243761996165
+---
+
 # 👋 Meet the team
 
 > _<mark style="color:orange;"><mark style="background-color:yellow;">**"ACTION is the foundational key to all SUCCESS"**<mark style="background-color:yellow;"></mark> <mark style="color:orange;"><mark style="background-color:yellow;"> </mark><mark style="color:orange;"><mark style="background-color:yellow;"><mark style="background-color:yellow;"></mark>_ **- Pablo Picasso**
