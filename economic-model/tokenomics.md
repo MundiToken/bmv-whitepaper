@@ -6,6 +6,28 @@ coverY: 345.0095969289828
 
 # 💵 Tokenomics
 
+Tokenomics includes all activities that deal with a coin or token in some way and covers all elements of a cryptocurrency's creation, management, and sometimes removal from a network.
+
+The main benefit of tokenomics is that it provides a more complete analysis of how coins work in their respective networks.
+
+Tokenomics is an important part of the crypto-space and all of its underlying dynamics so it´s critical to understand the different aspects of tokenomics
+
+Asset Valuation The process of determining the value of a coin or token. This is especially useful for investors who want to purchase new coins. If they can estimate how much a coin will be worth in the future, it might be easier to decide whether or not its price is worth investing in now. Coin valuation is also important for traders who have made a significant investment in a coin, and want to know if its price is going up or down.
+
+Inflation A rise in the general level of prices for goods and services in an economy. Inflation can also occur when people expect prices to fall, therefore changing their preference from wanting money now versus later. Inflation occurs when the supply of money is larger than the total output of an economy. Also known as "price inflation."
+
+Deflation A decrease in the general level of prices for goods and services. This occurs when consumers and entities anticipate falling prices, and therefore decide not to buy more now and wait for these items become more affordable. Deflation occurs when the supply of money is smaller than the total output of an economy. Also known as "price deflation."
+
+Supply and Demand Elasticity If a coin has high supply-and-demand elasticity, its price will be more affected by changes in demand relative to its supply. This means that if demand for a particular coin rises, the coin will experience more positive price action (\$$) than if demand for the same coin fell.
+
+Supply and Demand Elasticity = (% change in quantity supplied) / (% change in quantity demanded).
+
+Community Rewards When a coin has a significant community, it can play a role in working to improve the coin's fundamentals. This is an example of market-based governance that has the potential to increase the price of a coin because it's an indicator of trust in the network.
+
+Pump and Dump Schemes A pump-and-dump scheme is when someone buys a large amount of a particular coin, which increases its value at first. Once other investors notice the price going up, they might buy some as well. This can create a "hype" where everyone is buying the coin, leading to its price going even higher. Eventually, everyone who bought some would sell it back at a high price, which makes them profit from buying low and selling high.
+
+In this way, pump-and-dump schemes can cause a coin's price to be artificially inflated, and it will crash back down when all of its investors start selling off their coins.
+
 ### <mark style="color:purple;">**Utility tokens**</mark>
 
 Utility tokens are one of the types of cryptographic tokens. They are tokens that give their holders access to a blockchain-based product or service. The asset they represent is a certain level of access to a service or product that the holder can obtain by redeeming it.&#x20;
