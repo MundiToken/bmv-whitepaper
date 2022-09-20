@@ -44,5 +44,11 @@ Token transfer limits and quotas to self-owned wallets will apply.
 
 Technologically it means that BMV will measure token units to be transfered to self-owned customer´s wallets from it´s customers wallets BMV custody.
 
-This solution can suffer from some of the same problems as top-down government control, because most often, this process of privatization has occurred by way of a government forcibly assuming control over a common-pool resource and then assigning private property rights over the resource to its subjects based on a sale price or simple political favor. In fact, this was what Lloyd was actually arguing for, as he was writing around the time of the English Parliament’s Enclosure Acts, which stripped traditional common property arrangements to grazing lands and fields and divided the land into private holdings.
+This strategy is a popular solution to overcoming the tragedy of the commons as described by economists led by Nobelist Elionor Ostrom.
+
+{% hint style="success" %}
+<mark style="color:green;">**Fact:**</mark> Elinor Ostrom was the first woman, and one of just two women, to win the Nobel prize in economics.
+{% endhint %}
+
+Before the English enclosures laws, customary arrangements among rural villagers managed their use and conservation. By limiting use to local farmers and herders, managing use through practices such as crop rotation and seasonal grazing, and providing enforceable sanctions against overuse and abuse of the resource, these collective action arrangements readily overcame the tragedy of the commons, relying on measures to address the good’s rivalry in consumption by regulating consumption.
 
