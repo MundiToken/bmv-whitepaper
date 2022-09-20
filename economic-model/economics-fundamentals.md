@@ -30,21 +30,23 @@ Economics changes and evolves. So when we talk about the old model of economics 
 
 This cost is called **marginal cost**.This cost is more than zero because you must consider the raw materials for producing this additional iPhone. But for for an image, you just take a picture, you send it to anyone and upload it. It's free, it's available to anyone. So there is no marginal cost. Because of that principle, the whole idea of supply, demand and cos has also changed. The idea of digital Goods is different when we talk about initial costs.
 
-So let's understand the economic principles. Economic principles generally do not change, or if they do, it takes time to settle the change. In order to materialize the evolution of economic principles, we have to break all economic concepts such as the principal agent model, game theory, asymmetric information, monetary policy, etc. to create an economic framework to meet the demands of the new digital commerce. This economic model is divided into three pillars
+So let's understand the economic principles. Economic principles generally do not change, or if they do, it takes time to settle the change. In order to materialize the evolution of economic principles, we have to break all economic concepts such as the principal agent model, game theory, asymmetric information, monetary policy, etc. to create an economic framework to meet the demands of the new digital commerce.&#x20;
+
+The economic model is divided into three pillars:
 
 ### <mark style="color:purple;">Market Design</mark>
 
-How participants will trade the token, how they will interact with each other and the incentive model that will be created for these participants using these tokens. Represents the design of the environment.
+Specifies how participants will trade the token, how they will interact with each other and the incentive model that will be created for these participants using these tokens. Represents the design of the environment.
 
 ### <mark style="color:purple;">Mechanism Design</mark>
 
-Represents the design of rules. It deals with the business rules that must be applied to obtain an outcome. for example, if I need to have a specific result of a chess move I must change the rules of each of the pieces in order to obtain the expected result. Unlike game theory, in which specific rules are followed in order to obtain a result, mechanism design applies the opposite rule. The objective is the restructuring of the rules and mechanisms themselves to obtain a specific result.
+Represents the design of the rules. Deals with the business rules that must be applied to obtain an outcome. For example, if I need to have a specific result of a chess move I must change the rules of each of the pieces in order to obtain the expected result. Unlike game theory, where specific rules are followed in order to obtain a result, mechanism design applies the opposite rule. The objective is the restructuring of the rules and the mechanisms themselves obtain a specific result.
 
 ### <mark style="color:purple;">Token Design</mark>
 
-Represents the design of incentives. Token design is optional as in private blockchains they are not required. In the design of tokens, we apply strategies on these assets to encourage participants to trade.&#x20;
+Represents the design of the incentives. Token design is optional and in private blockchains they are not required. In the token design, we apply strategies on these assets to encourage participants to trade.&#x20;
 
-Let's understand each two concept of each pillar. The heart of this framework is the token incentive model.
+Let's understand the concepts of each pillar. The heart of this framework is the token incentive model.
 
 ![](../.gitbook/assets/Tokenomics.jpg)
 
