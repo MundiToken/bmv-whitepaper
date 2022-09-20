@@ -137,3 +137,6 @@ The price of the token does not necessarily increase when the burn takes place. 
 
 In economic science, the **tragedy of the commons** is a situation in which individual users, who have open access to a resource unhampered by shared social structures or formal rules that govern access and use, act independently according to their own self interest and, contrary to the common good of all users, cause depletion of the resource through their uncoordinated action.
 
+A rival good means that only one person can consume an asset and, when someone consumes a unit that unit is no longer available for others to consume.&#x20;
+
+All consumers migth become rivals competing for that asset and each person’s consumption subtracts from the total stock of the good available. Note that in order for a tragedy for the commons to occur the asset must also be scarce like a token, since a non-scarce good cannot be rivalrous in consumption.
