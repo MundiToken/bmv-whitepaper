@@ -1,0 +1,9 @@
+# 💫 Leading by example
+
+Just in the last two years we had many good examples of how companies are shifting their course to attend the markets’ new expectations and making use of environmental assets in the process. Lyft, a major car-sharing app has committed since September 2018 to complete carbon neutrality. The American company has offset 2 million CO2tons, focusing on projects that rely not only in the carbon capturing, but also in co-benefits, meaning the impact that this revenue could have on communities. In Europe, Bolt acted in a similar way, committing to make all of its rides carbon neutral from 2019. The Europe’s third fastest growing company invested €10 million in the first phase of the program, which aims to complete carbon neutrality in 10 years.
+
+In the Airline industry, EasyJet and Iberia have announced carbon offsetting programs prior to ICAO’s Corsia entering in force. EasyJet acquired credits equivalent to 7,5 mi CO2tons, covering one year of emissions of all of its flights, for £25 million. Iberia has created a platform for all corporate clients that wish to offset their travels, making use of a marketplace model, based on blockchain registry.
+
+There are several reasons why companies offset their emissions and wish to compensate their impact by financing reliable and trustworthy projects: preparing for the low carbon economy regulatory framework, corporate responsibility, participation in pre-compliance markets, Green Marketing and reputational risk management. In any case, the most important aspect is that there is no way to dissociate environmental and social issues from the economy as a whole, as these two impact each other. Never this perception was so widespread, and we are walking progressively in a world that relies on trustworthy and transparent players to achieve complete sustainable development.
+
+![](<../.gitbook/assets/image (11).png>)
