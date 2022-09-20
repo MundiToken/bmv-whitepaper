@@ -36,3 +36,13 @@ BMVs token is semi-ancored to the index price of a set of commodities. As a util
 
 Self-owned wallets with a high volume of token ownership migth send ask orders with an underprice, compromising the price variation of the whole ecomomy. As this occurance will affect all token holders we face a Tragey of the Commons case, thus, enforcing exclusive rights to economic assets to whowever might over-consume/ dump price tokens over the course of history becomes imperative.
 
+#### <mark style="color:green;">BMV regulatory hedging</mark>
+
+The solution is top-down regulation and direct control of common-pool and BMV customer´s custodial assets. Regulating transfers to self-owned wallets will prevent price tanking and preseve investment of other participants will prevent harmful speculation.&#x20;
+
+Token transfer limits and quotas to self-owned wallets will apply.
+
+Technologically it means that BMV will measure token units to be transfered to self-owned customer´s wallets from it´s customers wallets BMV custody.
+
+This solution can suffer from some of the same problems as top-down government control, because most often, this process of privatization has occurred by way of a government forcibly assuming control over a common-pool resource and then assigning private property rights over the resource to its subjects based on a sale price or simple political favor. In fact, this was what Lloyd was actually arguing for, as he was writing around the time of the English Parliament’s Enclosure Acts, which stripped traditional common property arrangements to grazing lands and fields and divided the land into private holdings.
+
