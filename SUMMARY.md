@@ -40,6 +40,7 @@
 
 * [💰 Economics Fundamentals](economic-model/economics-fundamentals.md)
 * [💵 Tokenomics](economic-model/tokenomics.md)
+* [🧘♀ Balance & Hedging](economic-model/balance-and-hedging.md)
 * [💱 DeFi Strategy](economic-model/defi-strategy.md)
 * [📣 ICO and Offseting](economic-model/ico-and-offseting.md)
 * [🤝 Partners](economic-model/partners.md)
