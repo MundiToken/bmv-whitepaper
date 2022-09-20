@@ -6,17 +6,17 @@ coverY: 0
 
 # 💰 Economics Fundamentals
 
-In an Ideal World there will be one model that serves all the different ecosystem purposes, unfortunately we do not live in an Ideal World and there's no ideal ecosystem that fits all the crypto ecosystems so when it comes to token there isn't one ideal token economy We cannot take a model that could fit in all your different ecosystems. With that being said, there are economic frameworks available. We'll talk about different perspectives and different aspects and principles to apply into building your ecosystem.
+In an Ideal World there will be one model that serves all the different ecosystem purposes, unfortunately we do not live in an Ideal World and there's no ideal ecosystem that fits all the crypto ecosystems so when it comes to token there isn't one ideal token economy. We cannot take a model that could fit in all your different ecosystems. With that being said, there are economic frameworks available. We'll talk about different perspectives and different aspects and principles to apply into building your ecosystem.
 
 Economics design is much more about principles or having just one model that fits your ecosystem. It's not about designing the token of the ecosystems, it's a lot more: it's about resolution, about governance, about monetary policy, about your network effect, about your network design, about incentives design model. There's so many aspects into that. We're going to cover three matters in order to start building our ecosystem.
 
-So we're going to Deep dive into 3 main aspects:
+So we're going to deep dive into 3 main aspects:
 
-1. What is the economics framework.&#x20;
-2. What are the elements to consider.&#x20;
+1. The economics framework.&#x20;
+2. Elements to consider.&#x20;
 3. How to use them.
 
-But first we must understand the basic ecomomic element: <mark style="color:green;">**the token.**</mark>
+But first we must understand the basic ecomomics element: <mark style="color:green;">**the token.**</mark>
 
 ### <mark style="color:purple;">**What is a Token?**</mark>
 
@@ -24,11 +24,11 @@ A token represents a created (imprinted) value within the ecosystem. It is where
 
 ### <mark style="color:purple;">What is the economics framework?</mark>
 
-When you talk about token economics it is not about just simply applying the economics that it's available and applying it to a digital system.
+When we talk about token economics it is not about just simply applying the economics, but making it available and applying it to a digital system.
 
-Economics changes and evolves. So when we talk about the old model of economics we must consider things like cost of production. Because production usually is measured by the cost of all the materials and the service involved, we then must consider the cost of delivering that product to the consumers hands. Whenever we create or we build an asset, let's take for example an iPhone, we calculate the cost of all the materials that compose that phone. When we produce another iPhone there's another cost which is based on the cost of the production of the first item.
+Economics changes and evolves. So when we talk about the old model of economics we must consider things like production cost. Because production usually is measured by the cost of all the materials and the services involved, we then must consider the cost of delivering that product to consumers hands. Whenever we create or we build an asset, let's take for example an iPhone, we calculate the cost of all the materials that compose that phone. When we produce another iPhone there's another cost which is based on the cost of the production of the first item.
 
-This cost is called **marginal cost**.This cost is more than zero because you must consider the raw materials for producing this additional iPhone. But for for an image, you just take a picture you send it to anyone and upload it. It's free, it's available to anyone. So there is no marginal cost. Because of that, the whole idea of supply and demand, the whole idea of cost, Has also changed, so the idea of digital Goods is different when we talk about initial cost.
+This cost is called **marginal cost**.This cost is more than zero because you must consider the raw materials for producing this additional iPhone. But for for an image, you just take a picture, you send it to anyone and upload it. It's free, it's available to anyone. So there is no marginal cost. Because of that principle, the whole idea of supply, demand and cos has also changed. The idea of digital Goods is different when we talk about initial costs.
 
 So let's understand the economic principles. Economic principles generally do not change, or if they do, it takes time to settle the change. In order to materialize the evolution of economic principles, we have to break all economic concepts such as the principal agent model, game theory, asymmetric information, monetary policy, etc. to create an economic framework to meet the demands of the new digital commerce. This economic model is divided into three pillars
 
