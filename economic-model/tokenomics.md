@@ -32,13 +32,17 @@ If a coin has high supply-and-demand elasticity, its price will be more affected
 {% endtab %}
 {% endtabs %}
 
+{% tabs %}
+{% tab title="Community Rewards" %}
+When a coin has a significant community, it can play a role in working to improve the coin's fundamentals. This is an example of market-based governance that has the potential to increase the price of a coin because it's an indicator of trust in the network.
+{% endtab %}
 
-
-Community Rewards When a coin has a significant community, it can play a role in working to improve the coin's fundamentals. This is an example of market-based governance that has the potential to increase the price of a coin because it's an indicator of trust in the network.
-
-Pump and Dump Schemes A pump-and-dump scheme is when someone buys a large amount of a particular coin, which increases its value at first. Once other investors notice the price going up, they might buy some as well. This can create a "hype" where everyone is buying the coin, leading to its price going even higher. Eventually, everyone who bought some would sell it back at a high price, which makes them profit from buying low and selling high.
+{% tab title="Pump and Dump Schemes" %}
+&#x20;A pump-and-dump scheme is when someone buys a large amount of a particular coin, which increases its value at first. Once other investors notice the price going up, they might buy some as well. This can create a "hype" where everyone is buying the coin, leading to its price going even higher. Eventually, everyone who bought some would sell it back at a high price, which makes them profit from buying low and selling high.
 
 In this way, pump-and-dump schemes can cause a coin's price to be artificially inflated, and it will crash back down when all of its investors start selling off their coins.
+{% endtab %}
+{% endtabs %}
 
 ### <mark style="color:purple;">**Utility tokens**</mark>
 
