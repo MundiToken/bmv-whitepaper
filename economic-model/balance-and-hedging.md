@@ -20,10 +20,15 @@ All the MDTCoins that are assigned to the lot will be made available, in no long
 
 The price of the token does not necessarily increase when the burn takes place. Sometimes, other news or indexes related to the token can. Burning tokens tend to support an asset’s price and is considered a positive move as business evolves.
 
-### <mark style="color:purple;">Tragedy of the commons prevention</mark>
+### <mark style="color:purple;">Tragedy of the Commons</mark>
 
 In economic science, the **tragedy of the commons** is a situation in which individual users, who have open access to a resource unhampered by shared social structures or formal rules that govern access and use, act independently according to their own self interest and, contrary to the common good of all users, cause depletion of the resource through their uncoordinated action.
 
 A rival good means that only one person can consume an asset and, when someone consumes a unit that unit is no longer available for others to consume.&#x20;
 
 All consumers migth become rivals competing for that asset and each person’s consumption subtracts from the total stock of the good available. Note that in order for a tragedy for the commons to occur the asset must also be scarce like a token, since a non-scarce good cannot be rivalrous in consumption.
+
+If each consumer maximizes the value they get from the asset by consuming as much as they can as fast as they can before others deplete the resource, and no-one has an incentive to reinvest in maintaining or reproducing the good since they can not prevent others from appropriating the value of the investment by consuming the product for themselves. The good becomes more and more scarce and may end up entirely depleted.
+
+#### <mark style="color:green;">How it applies to our ecomomy</mark>
+
