@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1627215750463-3386c8ed92ee?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxyZXNvdXJjZXN8ZW58MHx8fHwxNjYzNjk0NTkz&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
 # 🧘♀ Balance & Hedging
 
 ### <mark style="color:purple;">**Economy Balance control**</mark>
