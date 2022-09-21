@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxhY2NvdW50fGVufDB8fHx8MTY2Mzc3ODY1NQ&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
 # 🔎 Compliance
 
 ### <mark style="color:purple;">Transparency is essential for us</mark>
