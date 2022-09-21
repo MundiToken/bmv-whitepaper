@@ -69,7 +69,7 @@ BMV carbon asset tokens operates through cyclic token economy, using <mark style
 * Standard: ERC-20
 * Profile: Utility Token
 * Decimals: 2
-* Description: This utility token can be later used to purchase a good or service offered by Originis. The issuing of MDT will be 1,000,000 (softcap) supply tokens MDT will be deployed on the Polygon Blockchain following the ERC-20 standards.
+* Description: This utility token can be later used to purchase a good or service offered by Originis. The issuing of MDT will be 100.000.000 (softcap) supply tokens MDT will be deployed on the Polygon Blockchain following the ERC-20 standards.
 
 ### <mark style="color:purple;">Governance tokens</mark>
 
@@ -119,9 +119,9 @@ The final sale price of **MDTCoins** during the ICO is not pre-determined.
 
 Part of the income from the Token Sale by the BMV might fund the development of a **MDTCoin** a wallet engine as well. This wallet will manage customers ESG NFTs certifications, conversion between **MDTCoins,** UCS operations, Fiat Currencies, other Cryptocurrencies, payments, liquidation, staking, etc.&#x20;
 
-The wallet may function as an independent subsidiary of BMV. In order to allow the operation liquidity for the exchange process, BMV will be funded with 20,000 of **MDTCoins**(\~0.02% of total Tokens available).
+The wallet may function as an independent subsidiary of BMV. In order to allow the operation liquidity for the exchange process, BMV will be funded with 500.000 of **MDTCoins**(\~0.02% of total Tokens available).
 
-BMV will maintain 673,000 **MDTCoins** will be committed to the development of market Applications committed to use **MDTCoins** as their unique value exchange instrument. An example description of such DAPP (Distribuited Application) can be found on the accompanying documentation of this White Paper.
+BMV will maintain 4.500.000 **MDTCoins** will be committed to the development of market Applications committed to use **MDTCoins** as their unique value exchange instrument. An example description of such DAPP (Distribuited Application) can be found on the accompanying documentation of this White Paper.
 
 These tokens will be also used to support the **MDTCoins** exclusive operations education sites, videos, blogs and social media posts, marketing  as well as broaden the carbon credit economic spectrum.
 
@@ -133,12 +133,13 @@ The Initial Token Sale for MDTCoin may follow an Interactive mechanism as descri
 **Important to know:** <mark style="color:blue;">The lowest price at which a MDTCoins will be able to be obtained is at an equivalent of R$ 175.00 per token, during the limited SAFT offering of the BMV Consortium</mark>
 {% endhint %}
 
-| Item                | Definitions                           | MDTCoins      | %       |
-| ------------------- | ------------------------------------- | ------------- | ------- |
-| SAFT and Token Sale | Initial Token Sale - Discount applied | 100.000.000   | 10      |
-| Secondary Sale      | Interactive-ICO - Market capped price | 50.000.000    | 5       |
-| Reserves            | Not minted                            | 850.000.000   | 85      |
-| **Total**           | **CAP**                               | **1.000.000** | **100** |
+| Item                | Definitions                           | MDTCoins        | %       |
+| ------------------- | ------------------------------------- | --------------- | ------- |
+| SAFT and Token Sale | Initial Token Sale - Discount applied | 10.000.000      | 10      |
+| Secondary Sale      | Interactive-ICO - Market capped price | 5.000.000       | 5       |
+| BMV Operations      | Self                                  | 5.000.000       | 5       |
+| Reserves            | Not minted                            | 800.000.000     | 80      |
+| **Total**           | **CAP**                               | **100.000.000** | **100** |
 
 ### <mark style="color:purple;">Secondary Token Sale through conventional marketplaces</mark>
 
@@ -146,4 +147,4 @@ In this model, we wish to achieve a market equilibrium through buyer interaction
 
 The smart contract continuously and automatically withdraws bids according to the present bids and valuation tables. Our implementation introduces incentives which enable the smart contract to manage the complex operations of adding, deleting, and finding the minimum value in a list as well as identifying a subset of entries whose sum exceeds a target value.
 
-**The sale wil represent a 3% of the total economy (soft cap) based on Balance & Hedging policies.**
+**The sale wil represent a 5% of the total economy (soft cap) based on** [**Balance & Hedging**](balance-and-hedging.md) **policies.**
