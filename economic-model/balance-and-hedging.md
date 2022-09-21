@@ -51,7 +51,7 @@ Technologically it means that BMV will measure token units to be transfered to s
 This strategy is a popular solution to overcoming the tragedy of the commons as described by economists led by Nobelist Elionor Ostrom.
 
 {% hint style="success" %}
-<mark style="color:green;">**Fact:**</mark> Elinor Ostrom was the first woman, and one of just two women, to win the Nobel prize in economics.
+**Reference**: <mark style="color:green;">Elinor Ostrom was the first woman, and one of just two women, to win the Nobel prize in economics.</mark>
 {% endhint %}
 
 Before the English enclosures laws, customary arrangements among rural villagers managed their use and conservation. By limiting use to local farmers and herders, managing use through practices such as crop rotation and seasonal grazing, and providing enforceable sanctions against overuse and abuse of the resource, these collective action arrangements readily overcame the tragedy of the commons, relying on measures to address the good’s rivalry in consumption by regulating consumption.
