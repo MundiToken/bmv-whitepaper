@@ -4,7 +4,7 @@ Due to the international recognition of the work and achievements of the BMV net
 
 In Europe, BMV Portugal was established in 2017 and developed a matching strategy and methodology to be used for the origination of units in the Iberian Peninsula and further across Europe.
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 In the ICO, BMV Portugal will be responsible for the Token management and for controlling all the aspects of the Token structure. It will be the bridge between the UCS and purchasers that show a great appetite for qualified and innovative products in the European Continent.
 

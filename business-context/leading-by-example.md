@@ -6,4 +6,4 @@ In the Airline industry, EasyJet and Iberia have announced carbon offsetting pro
 
 There are several reasons why companies offset their emissions and wish to compensate their impact by financing reliable and trustworthy projects: preparing for the low carbon economy regulatory framework, corporate responsibility, participation in pre-compliance markets, Green Marketing and reputational risk management. In any case, the most important aspect is that there is no way to dissociate environmental and social issues from the economy as a whole, as these two impact each other. Never this perception was so widespread, and we are walking progressively in a world that relies on trustworthy and transparent players to achieve complete sustainable development.
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)

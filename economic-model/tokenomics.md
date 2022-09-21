@@ -141,6 +141,8 @@ The Initial Token Sale for MDTCoin may follow an Interactive mechanism as descri
 | Reserves            | Not minted                            | 800.000.000     | 80      |
 | **Total**           | **CAP**                               | **100.000.000** | **100** |
 
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p><em><strong>Token distribution</strong></em></p></figcaption></figure>
+
 ### <mark style="color:purple;">Secondary Token Sale through conventional marketplaces</mark>
 
 In this model, we wish to achieve a market equilibrium through buyer interactions. Buyers not only submit bids for tokens but may also voluntarily withdraw their bids after committing them to the sale (within certain limits). In addition, each buyer submits to the crowdsale smart contract a valuation table which maps total sale amounts to the buyer’s contribution amount.
