@@ -22,7 +22,7 @@ Rise in the general level of prices for goods and services in an economy. Inflat
 {% endtab %}
 
 {% tab title="Deflation" %}
-A decrease in the general level of prices for goods and services. This occurs when consumers and entities anticipate falling prices, and therefore decide not to buy more now and wait for these items become more affordable. Deflation occurs when the supply of money is smaller than the total output of an economy. Also known as "price deflation."
+A decrease in the general level of prices for goods and services. This occurs when consumers and entities anticipate falling prices, and therefore decide not to buy more now and wait for these items become more affordable. Deflation occurs when the <mark style="color:blue;">supply of money is smaller than the total output of an economy</mark>. Also known as "price deflation."
 {% endtab %}
 
 {% tab title="Supply-and-demand elasticity" %}
@@ -34,7 +34,7 @@ If a coin has high supply-and-demand elasticity, its price will be more affected
 
 {% tabs %}
 {% tab title="Community Rewards" %}
-When a coin has a significant community, it can play a role in working to improve the coin's fundamentals. This is an example of market-based governance that has the potential to increase the price of a coin because it's an indicator of trust in the network.
+When a coin has a significant community, it can play a role in working to i<mark style="color:blue;">mprove the coin's fundamentals</mark>. This is an example of market-based governance that has the potential to increase the price of a coin because it's an indicator of trust in the network.
 {% endtab %}
 
 {% tab title="Pump and Dump Schemes" %}
@@ -102,21 +102,14 @@ The initial token sale process includes the issuing of Simple Agreements for Fut
 
 The revenue of the sales will be finally credited in the Issuer accounts managed by BMV, where it may be converted in ETH, fiat or Stable Coin (€), depending on the issuers prefference.
 
-The **MDTCoins** purchased will generate revenue for the BMV Participants and will be used:
-
-⦁ To support the global operations structure in:
+The **MDTCoins** purchased will generate revenue for the BMV Participants and is planned to be used to support the global operations structure:
 
 1. The expansion of the capacity and customization of the registry platform to accommodate other international environmental assets;
 2. Improvements in the physical structure of the European branch, as well to support required technical and legal fees and;
 3. R\&D of methodologies to fit European ESG demands.
-
-⦁ Viability of the Projects which conciliate the keeping of native forest with financing of equipment and input for sustainable production;
-
-⦁ Development of communities in the areas comprehended within the Projects, e.g. education development; professional and cultural exchange; scholarship within the partnership between UNESP and Instituto Politécnico de Coimbra (and other joining institutes); knowledge and technology exchange in order to qualify young professionals in Sustainable Development and Production;
-
-⦁ Building the agile acceleration for new functionalities of the BMV Dapp and smart contracts engine, marketing presence and building the partners and customers community that leverages its growth and liquidates its token.
-
-****
+4. Viability of the Projects which conciliate the keeping of native forest with financing of equipment and input for sustainable production;
+5. Development of communities in the areas comprehended within the Projects, e.g. education development; professional and cultural exchange; scholarship within the partnership between UNESP and Instituto Politécnico de Coimbra (and other joining institutes); knowledge and technology exchange in order to qualify young professionals in Sustainable Development and Production;
+6. Building the agile acceleration for new functionalities of the BMV Dapp and smart contracts engine, marketing presence and building the partners and customers community that leverages its growth and liquidates its token.
 
 {% hint style="info" %}
 **Important to know:** <mark style="color:blue;"><mark style="color:blue;">Ten percent of the initially minted<mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**MDTCoins**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"><mark style="color:blue;">will be available for distribution to interested parties during the<mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">BMV</mark> <mark style="color:blue;"></mark><mark style="color:blue;"><mark style="color:blue;">**Initial Token Sale**<mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;"><mark style="color:blue;">(100,000) which will be exchanged for other currencies, while a remaining will be available a Secondary future Sale.<mark style="color:blue;"></mark>
@@ -124,9 +117,9 @@ The **MDTCoins** purchased will generate revenue for the BMV Participants and wi
 
 The final sale price of **MDTCoins** during the ICO is not pre-determined.
 
-Part of the income from the Token Sale by the BMV will fund the development of a **MDTCoin** a wallet engine as well. This wallet will manage the fees and accounting services, conversion between **MDTCoins,** UCS operations **** and Fiat Currencies, other Cryptocurrencies, payments, liquidation, staking, etc.&#x20;
+Part of the income from the Token Sale by the BMV might fund the development of a **MDTCoin** a wallet engine as well. This wallet will manage customers ESG NFTs certifications, conversion between **MDTCoins,** UCS operations, Fiat Currencies, other Cryptocurrencies, payments, liquidation, staking, etc.&#x20;
 
-The wallet may function as an independent subsidiary of BMV. In order to allow the operation liquidity for the exchange process, BMV will be funded with 10,000 of **MDTCoins**(\~0.01% of total Tokens available).
+The wallet may function as an independent subsidiary of BMV. In order to allow the operation liquidity for the exchange process, BMV will be funded with 20,000 of **MDTCoins**(\~0.02% of total Tokens available).
 
 BMV will maintain 673,000 **MDTCoins** will be committed to the development of market Applications committed to use **MDTCoins** as their unique value exchange instrument. An example description of such DAPP (Distribuited Application) can be found on the accompanying documentation of this White Paper.
 
@@ -134,7 +127,7 @@ These tokens will be also used to support the **MDTCoins** exclusive operations 
 
 ### <mark style="color:purple;">Initial Token Sale</mark>
 
-The Initial Token Sale for MDTCoin may follow an Interactive mechanism as described by Teutsch and Buterin. Price of acquisition will be determined by the final valuation of the token at the end of the sale as determined by market demand. Nevertheless, significant savings will be obtained by early contributors, particularly in the SAFT phase, with up to 40% discounts for initial investors in the SAFT when compared to a Secondary Sale (I-ICO model), and subsequent discounts weaning down by the end of the Token Sale process (see [ico-and-offseting.md](ico-and-offseting.md "mention") for futher details on the process).
+The Initial Token Sale for MDTCoin may follow an Interactive mechanism as described by Teutsch and Buterin. Price of acquisition will be determined by the final valuation of the token at the end of the sale as determined by market demand. Nevertheless, significant savings will be obtained by early contributors, particularly in the SAFT phase, with up to 40% discounts for initial investors when compared to a Secondary Sale (I-ICO model), and subsequent discounts weaning down by the end of the Token Sale process (see [ico-and-offseting.md](ico-and-offseting.md "mention") for futher details on the process).
 
 {% hint style="info" %}
 **Important to know:** <mark style="color:blue;">The lowest price at which a MDTCoins will be able to be obtained is at an equivalent of R$ 175.00 per token, during the limited SAFT offering of the BMV Consortium</mark>
@@ -147,10 +140,10 @@ The Initial Token Sale for MDTCoin may follow an Interactive mechanism as descri
 | Reserves            | Not minted                            | 850.000.000   | 85      |
 | **Total**           | **CAP**                               | **1.000.000** | **100** |
 
-### <mark style="color:purple;">Secondary Token Sale</mark>
+### <mark style="color:purple;">Secondary Token Sale through conventional marketplaces</mark>
 
 In this model, we wish to achieve a market equilibrium through buyer interactions. Buyers not only submit bids for tokens but may also voluntarily withdraw their bids after committing them to the sale (within certain limits). In addition, each buyer submits to the crowdsale smart contract a valuation table which maps total sale amounts to the buyer’s contribution amount.
 
 The smart contract continuously and automatically withdraws bids according to the present bids and valuation tables. Our implementation introduces incentives which enable the smart contract to manage the complex operations of adding, deleting, and finding the minimum value in a list as well as identifying a subset of entries whose sum exceeds a target value.
 
-**The sale wil represent a xx% of the total economy (soft cap)**
+**The sale wil represent a 3% of the total economy (soft cap) based on Balance & Hedging policies.**
