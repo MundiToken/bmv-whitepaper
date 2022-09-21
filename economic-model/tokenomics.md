@@ -44,7 +44,7 @@ In this way, pump-and-dump schemes can cause a coin's price to be artificially i
 {% endtab %}
 {% endtabs %}
 
-### <mark style="color:purple;">**Utility tokens**</mark>
+### <mark style="color:purple;">**BMV Utility Token**</mark>
 
 Utility tokens are one of the types of cryptographic tokens. They are tokens that give their holders access to a blockchain-based product or service. The asset they represent is a certain level of access to a service or product that the holder can obtain by redeeming it.&#x20;
 
