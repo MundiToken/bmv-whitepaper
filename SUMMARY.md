@@ -9,14 +9,14 @@
 
 ## Business Context
 
-* [🌻 An economic look towards the Environment](business-context/an-economic-look-towards-the-environment.md)
+* [🌿 An economic look towards the Environment](business-context/an-economic-look-towards-the-environment.md)
 * [📈 Trends in sustainability](business-context/trends-in-sustainability.md)
 * [💫 Leading by example](business-context/leading-by-example.md)
-* [🐼 Preservation is our core](business-context/preservation-is-our-core.md)
+* [💚 Preservation is our core](business-context/preservation-is-our-core.md)
 * [🍁 Harmonious Surplus](business-context/harmonious-surplus.md)
 * [🎯 Value proposition](business-context/value-proposition.md)
 * [✍ Evaluation parameters](business-context/evaluation-parameters.md)
-* [🌄 Preservation as an asset](business-context/preservation-as-an-asset.md)
+* [☀ Preservation as an asset](business-context/preservation-as-an-asset.md)
 * [👓 Policy and demand](business-context/policy-and-demand.md)
 * [🔎 Compliance](business-context/compliance.md)
 

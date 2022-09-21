@@ -1,4 +1,10 @@
-# 🐼 Preservation is our core
+---
+cover: >-
+  https://images.unsplash.com/photo-1462143338528-eca9936a4d09?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHx0cmVlc3xlbnwwfHx8fDE2NjM3MDA0MzE&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
+# 💚 Preservation is our core
 
 ### <mark style="color:purple;">Preservation is our core</mark> <a href="#_toc39513907" id="_toc39513907"></a>
 

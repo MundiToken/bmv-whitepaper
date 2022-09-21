@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1577511425081-0ec68e1bd454?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHx0YXJnZXR8ZW58MHx8fHwxNjYzNzc4Mjc1&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
 # 🎯 Value proposition
 
 ### Economical value for an essential service <a href="#_toc39513909" id="_toc39513909"></a>

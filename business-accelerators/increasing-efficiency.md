@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1600334844291-539458eb31f5?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHx3aW58ZW58MHx8fHwxNjYzNzc4MTE1&ixlib=rb-1.2.1&q=80
-coverY: 0
----
-
 # 🪜 Increasing efficiency
 
 BMV observed that in all Nuclei areas, the livestock husbandry areas suffer from an advanced degrading process up to 40% of that area, resulting from intensive grazing without the support of any culture treating or management.<mark style="color:blue;">\[3]</mark> This widespread practice leads to overall agro ecological impoverishment of the regions, besides being much less productive (in some cases 0,8 animal by hectare). The solutions brought by the SPDs are capable of achieving a fivefold productivity increase at the same time that recovers all of the degraded areas. <mark style="color:blue;">\[4]</mark>
