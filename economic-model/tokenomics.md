@@ -38,7 +38,7 @@ When a coin has a significant community, it can play a role in working to i<mark
 {% endtab %}
 
 {% tab title="Pump and Dump Schemes" %}
-&#x20;A pump-and-dump scheme is when someone buys a large amount of a particular coin, which <mark style="color:blue;">increases its value at first</mark>. Once other investors notice the price going up, they might buy some as well. This can create a "hype" where everyone is buying the coin, leading to its price going even higher. Eventually, everyone who bought some would sell it back at a high price, which makes them profit from buying low and selling high.
+A pump-and-dump scheme is when someone buys a large amount of a particular coin, which <mark style="color:blue;">increases its value at first</mark>. Once other investors notice the price going up, they might buy some as well. This can create a "hype" where everyone is buying the coin, leading to its price going even higher. Eventually, everyone who bought some would sell it back at a high price, which makes them profit from buying low and selling high.
 
 In this way, pump-and-dump schemes can cause a coin's price to be artificially inflated, and it will <mark style="color:blue;">crash back down</mark> when all of its investors start selling off their coins.
 {% endtab %}
@@ -46,9 +46,9 @@ In this way, pump-and-dump schemes can cause a coin's price to be artificially i
 
 ### <mark style="color:purple;">**BMV Utility Token**</mark>
 
-Utility tokens are one of the types of cryptographic tokens. They are tokens that give their holders access to a blockchain-based product or service. The asset they represent is a certain level of access to a service or product that the holder can obtain by redeeming it.&#x20;
+Utility tokens are one of the types of cryptographic tokens. They are tokens that give their holders access to a blockchain-based product or service. The asset they represent is a certain level of access to a service or product that the holder can obtain by redeeming it.
 
-For example, Matic or Ether can be exchanged for access to decentralized applications (dApps) or to pay for smart contracts to be executed on the Polygon blockchain.&#x20;
+For example, Matic or Ether can be exchanged for access to decentralized applications (dApps) or to pay for smart contracts to be executed on the Polygon blockchain.
 
 The Ethereum and Smart Contract became more popular as the creation of dapps grew exponentially, usually in the form of ICOs. The main characteristic of a Utility Token as offered by the ICOs is that it provides access to some kind of decentralized application (the so called “utility”) and its value is based solely in the initial offering and subsequent transactions among private individuals. The main difference of our Token to others is that we have substance to back it. The already existent and used Forest Credits, which provides access to the offsetting of the environmental footprint for businesses and individuals that choose to do so.
 
@@ -98,7 +98,7 @@ Our Initial Coin Offering presents the opportunity for accessing an environmenta
 
 In our case, the ICO is based on a smart contract, giving investors access to the Tokens after ETH or StableCoins of fiat Euro (€), US or BRT currency purchases. The token will rely on the Ethereum Network, the most well established and used smart contract technology so far.
 
-The initial token sale process includes the issuing of Simple Agreements for Future Tokens (SAFT) specified at [Legal Considerations](broken-reference) section, followed by and Initial Token Sale to distribute **MDTCoins** (see [The Token Offering](../legal/the-token-offering.md)) to buyers.
+The initial token sale process includes the issuing of Simple Agreements for Future Tokens (SAFT) specified at [Legal Considerations](broken-reference/) section, followed by and Initial Token Sale to distribute **MDTCoins** (see [The Token Offering](../legal/the-token-offering.md)) to buyers.
 
 The revenue of the sales will be finally credited in the Issuer accounts managed by BMV, where it may be converted in ETH, fiat or Stable Coin (€), depending on the issuers prefference.
 
@@ -112,18 +112,18 @@ The **MDTCoins** purchased will generate revenue for the BMV Participants and is
 6. Building the agile acceleration for new functionalities of the BMV Dapp and smart contracts engine, marketing presence and building the partners and customers community that leverages its growth and liquidates its token.
 
 {% hint style="info" %}
-**Important to know:** <mark style="color:blue;"><mark style="color:blue;">Ten percent of the initially minted<mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**MDTCoins**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"><mark style="color:blue;">will be available for distribution to interested parties during the<mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">BMV</mark> <mark style="color:blue;"></mark><mark style="color:blue;"><mark style="color:blue;">**Initial Token Sale**<mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;"><mark style="color:blue;">(100,000) which will be exchanged for other currencies, while a remaining will be available a Secondary future Sale.<mark style="color:blue;"></mark>
+**Important to know:** <mark style="color:blue;">Ten percent of the initially minted</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**MDTCoins**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">will be available for distribution to interested parties during the BMV</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Initial Token Sale**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(100,000) which will be exchanged for other currencies, while a remaining will be available a Secondary future Sale.</mark>
 {% endhint %}
 
 The final sale price of **MDTCoins** during the ICO is not pre-determined.
 
-Part of the income from the Token Sale by the BMV might fund the development of a **MDTCoin** a wallet engine as well. This wallet will manage customers ESG NFTs certifications, conversion between **MDTCoins,** UCS operations, Fiat Currencies, other Cryptocurrencies, payments, liquidation, staking, etc.&#x20;
+Part of the income from the Token Sale by the BMV might fund the development of a **MDTCoin** a wallet engine as well. This wallet will manage customers ESG NFTs certifications, conversion between **MDTCoins,** UCS operations, Fiat Currencies, other Cryptocurrencies, payments, liquidation, staking, etc.
 
 The wallet may function as an independent subsidiary of BMV. In order to allow the operation liquidity for the exchange process, BMV will be funded with 500.000 of **MDTCoins**(\~0.02% of total Tokens available).
 
 BMV will maintain 4.500.000 **MDTCoins** will be committed to the development of market Applications committed to use **MDTCoins** as their unique value exchange instrument. An example description of such DAPP (Distribuited Application) can be found on the accompanying documentation of this White Paper.
 
-These tokens will be also used to support the **MDTCoins** exclusive operations education sites, videos, blogs and social media posts, marketing  as well as broaden the carbon credit economic spectrum.
+These tokens will be also used to support the **MDTCoins** exclusive operations education sites, videos, blogs and social media posts, marketing as well as broaden the carbon credit economic spectrum.
 
 ### <mark style="color:purple;">Initial Token Sale</mark>
 
