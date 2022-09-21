@@ -25,7 +25,7 @@
 * [🌎 The Nuclei](business-accelerators/the-nuclei.md)
 * [🗃 Registry structure](business-accelerators/for-designers.md)
 * [🔖 NFT Certifications](business-accelerators/nft-certifications.md)
-* [🔦 Setting the plan](business-accelerators/setting-the-plan.md)
+* [🔰 Setting the plan](business-accelerators/setting-the-plan.md)
 * [👩🎓 Education is essential](business-accelerators/education-is-essential.md)
 * [🪜 Increasing efficiency](business-accelerators/increasing-efficiency.md)
 * [🧑🚒 Fire control](business-accelerators/fire-control.md)
@@ -38,8 +38,8 @@
 
 ## economic model
 
-* [💰 Economics Fundamentals](economic-model/economics-fundamentals.md)
-* [💵 Tokenomics](economic-model/tokenomics.md)
+* [💵 Economics Fundamentals](economic-model/economics-fundamentals.md)
+* [🪙 Tokenomics](economic-model/tokenomics.md)
 * [🧘♀ Balance & Hedging](economic-model/balance-and-hedging.md)
 * [💱 DeFi Strategy](economic-model/defi-strategy.md)
 * [📣 ICO and Offseting](economic-model/ico-and-offseting.md)

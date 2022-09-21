@@ -6,7 +6,7 @@ coverY: -411.13243761996165
 
 # 👋 Meet the team
 
-> _<mark style="background-color:yellow;"><mark style="color:orange;">**"ACTION is the foundational key to all SUCCESS"**<mark style="color:orange;"></mark> <mark style="background-color:yellow;"><mark style="color:orange;"> </mark><mark style="background-color:yellow;"><mark style="color:orange;"><mark style="color:orange;"></mark>_ **- Pablo Picasso**
+> _<mark style="color:orange;"><mark style="background-color:yellow;">**"ACTION is the foundational key to all SUCCESS"**<mark style="background-color:yellow;"></mark> <mark style="color:orange;"><mark style="background-color:yellow;"> </mark><mark style="color:orange;"><mark style="background-color:yellow;"><mark style="background-color:yellow;"></mark>_ **- Pablo Picasso**
 
 ## Maria Tereza Umbelino
 
