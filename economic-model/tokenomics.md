@@ -14,11 +14,11 @@ Tokenomics is an important part of the crypto-space and all of its underlying dy
 
 {% tabs %}
 {% tab title="Asset Valuation" %}
-Process of determining the value of a coin or token. This is especially useful for investors who want to purchase new coins. If they can estimate how much a coin will be worth in the future, it might be easier to decide whether or not its price is worth investing in now. Coin valuation is also important for traders who have made a significant investment in a coin, and want to know if its price is going up or down.
+Process of determining the <mark style="color:blue;">value of a coin or token</mark>. This is especially useful for investors who want to purchase new coins. If they can estimate how much a coin will be worth in the future, it might be easier to decide whether or not its price is worth investing in now. Coin valuation is also important for traders who have made a significant investment in a coin, and want to know if its price is going up or down.
 {% endtab %}
 
 {% tab title="Inflation" %}
-Rise in the general level of prices for goods and services in an economy. Inflation can also occur when people expect prices to fall, therefore changing their preference from wanting money now versus later. Inflation occurs when the supply of money is larger than the total output of an economy. Also known as "price inflation."
+Rise in the general level of prices for goods and services in an economy. Inflation can also occur when people expect prices to fall, therefore changing their preference from wanting money now versus later. Inflation occurs when the <mark style="color:blue;">supply of money is larger than the total output of an economy</mark>. Also known as "price inflation."
 {% endtab %}
 
 {% tab title="Deflation" %}
@@ -38,9 +38,9 @@ When a coin has a significant community, it can play a role in working to improv
 {% endtab %}
 
 {% tab title="Pump and Dump Schemes" %}
-&#x20;A pump-and-dump scheme is when someone buys a large amount of a particular coin, which increases its value at first. Once other investors notice the price going up, they might buy some as well. This can create a "hype" where everyone is buying the coin, leading to its price going even higher. Eventually, everyone who bought some would sell it back at a high price, which makes them profit from buying low and selling high.
+&#x20;A pump-and-dump scheme is when someone buys a large amount of a particular coin, which <mark style="color:blue;">increases its value at first</mark>. Once other investors notice the price going up, they might buy some as well. This can create a "hype" where everyone is buying the coin, leading to its price going even higher. Eventually, everyone who bought some would sell it back at a high price, which makes them profit from buying low and selling high.
 
-In this way, pump-and-dump schemes can cause a coin's price to be artificially inflated, and it will crash back down when all of its investors start selling off their coins.
+In this way, pump-and-dump schemes can cause a coin's price to be artificially inflated, and it will <mark style="color:blue;">crash back down</mark> when all of its investors start selling off their coins.
 {% endtab %}
 {% endtabs %}
 
@@ -50,15 +50,15 @@ Utility tokens are one of the types of cryptographic tokens. They are tokens tha
 
 For example, Matic or Ether can be exchanged for access to decentralized applications (dApps) or to pay for smart contracts to be executed on the Polygon blockchain.&#x20;
 
-The Ethereum and Smart Contract became more popular as the creation of dapps grew exponentially, usually in the form of ICOs. However, after several controversies from the offering of Utility Tokens, the general trust in this type of crypto assets has been put into question. The main characteristic of a Utility Token as offered by the ICOs is that it provides access to some kind of decentralized application (the so called “utility”) and its value is based solely in the initial offering and subsequent transactions among private individuals. The main difference of our Token to others is that we have substance to back it. The already existent and used Forest Credits, which provides access to the offsetting of the environmental footprint for businesses and individuals that choose to do so.
+The Ethereum and Smart Contract became more popular as the creation of dapps grew exponentially, usually in the form of ICOs. The main characteristic of a Utility Token as offered by the ICOs is that it provides access to some kind of decentralized application (the so called “utility”) and its value is based solely in the initial offering and subsequent transactions among private individuals. The main difference of our Token to others is that we have substance to back it. The already existent and used Forest Credits, which provides access to the offsetting of the environmental footprint for businesses and individuals that choose to do so.
 
-BMV provenance systems operates through cyclic token economy, using ERC-20 utility knowns as **MDTCoins or Mundi Tokens** for services liquidation as well and governance.
+BMV carbon asset tokens operates through cyclic token economy, using <mark style="color:purple;">ERC-20</mark> utility tokens knowns as **MDTCoins or Mundi Tokens** for services liquidation, as well and governance.
 
 {% hint style="success" %}
 **Checkpoint:** <mark style="color:green;">MDTCoins will be the value exchange instrument for all transactions within the platform which represents a synthetic tradable UCS asset.</mark>
 {% endhint %}
 
-**The total number (cap) of MDTCoins economy will not be established.** Minting (current and total supply) will occur automatically in response to the core certification business and following business strategy based on special financial incentives. On Volume Balance analysis will be checked in order to maintain economy inflation not raising a starting level of 10%.
+**The total number (cap) of MDTCoins economy will not be established.** Minting (current and total supply) will occur automatically in response to the core certification business and following business strategy based on market demand and financial incentives. On Volume Balance analysis will be checked in order to maintain economy inflation not raising a starting level between 10-20%.
 
 #### <mark style="color:purple;">Token specifics</mark>
 
@@ -67,9 +67,9 @@ BMV provenance systems operates through cyclic token economy, using ERC-20 utili
 * MDT Identity
 * Blockchain: Polygon
 * Standard: ERC-20
-* Utility: Utility Token
+* Profile: Utility Token
 * Decimals: 2
-* Description: This utility token can be later used to purchase a good or service offered by Originis. The issuing of MDT will be 1,000,000 (softcap) supply tokens MDT will be coded on the Polygon Blockchain following the ERC-20 standards.
+* Description: This utility token can be later used to purchase a good or service offered by Originis. The issuing of MDT will be 1,000,000 (softcap) supply tokens MDT will be deployed on the Polygon Blockchain following the ERC-20 standards.
 
 ### <mark style="color:purple;">Governance tokens</mark>
 
@@ -77,9 +77,9 @@ DApps are typically designed to be self-sufficient and not reliant on a central 
 
 Many DApps solve this through the use of admin keys, which allow certain individuals to update the underlying smart contracts. However this introduces security risks and also undermines a DApp’s level of decentralization, which can have regulatory consequences. A common solution is to allow holders of a DApp’s governance tokens to vote on key decisions. These tokens are typically issued to users of the DApp, based on their level of activity. A smart contract-based decentralized autonomous organization (DAO) is established as part of the DApp, which executes the governance decisions of the token holders — removing part of the need for “admins”.
 
-Governance tokens will be distributed following a pre-set MDTCoin stakers reule (to be determined).
+Governance tokens will be distributed following a pre-set MDTCoin stakers rele (to be determined).
 
-These tokens may be tradeable on exchanges (including DEXs), with their value presumably linked to the ability to influence the operation of a specific DApp, but still free to market and not tied to BMV business financial results or MDTCoin pricing.
+These tokens may be tradeable on traditional exchanges (including DeXes), with their value presumably linked to the ability to influence the operation of the DApp, but still free to market and not tied to BMV business financial results or MDTCoin pricing.
 
 #### <mark style="color:purple;">Token specifics</mark>
 
@@ -90,21 +90,25 @@ These tokens may be tradeable on exchanges (including DEXs), with their value pr
 * Standard: ERC-20
 * Utility: Governance Token
 * Decimals: 0
-* Description: Governance token can be later used to vote over projects, protocol or business decisions to drive the direction of Brasil Mata Viva Consortium. No maximum specified (light cap) token supply MDTG. The token will be coded on the Polygon Blockchain following the ERC-20 standards.
+* Description: Governance token can be later used to vote over projects, protocol or business decisions to drive the direction of Brasil Mata Viva Consortium. No maximum specified (light cap) token supply MDTG. The token will be coded on the Polygon Blockchain following the ERC-20 governance token functions standards.
 
 ### <mark style="color:purple;">Initial Coin Offering (ICO)</mark>
 
-Our Initial Coin Offering presents the opportunity for accessing an environmental asset, backed by financial assets, which has a real, ‘bricks-and-mortars’ value, through a digital and secure environment. Every Token holder will be able to access the platforms where the UCS are deposited and offset their impact easily.
+Our Initial Coin Offering presents the opportunity for accessing an environmental asset, backed by financial assets, which has a real, ‘bricks-and-mortars’ value, through a digital and secure environment. Every Token holder will be able to access the platforms where the UCSs are deposited and offset their impact easily.
 
-In our case, the ICO is based on a smart contract, giving investors access to the Tokens after ETH or StableCoins of Euro (€) purchases. The token will rely on the Ethereum Network, the most well established and used smart contract technology so far.
+In our case, the ICO is based on a smart contract, giving investors access to the Tokens after ETH or StableCoins of fiat Euro (€), US or BRT currency purchases. The token will rely on the Ethereum Network, the most well established and used smart contract technology so far.
 
-The initial token sale process includes the issuing of Simple Agreements for Future Tokens (SAFT), followed by and Initial Token Sale to distribute **MDTCoins** (see [Broken link](broken-reference "mention")) to buyers.
+The initial token sale process includes the issuing of Simple Agreements for Future Tokens (SAFT) specified at [Legal Considerations](broken-reference) section, followed by and Initial Token Sale to distribute **MDTCoins** (see [The Token Offering](../legal/the-token-offering.md)) to buyers.
 
-The revenue of the sales will be finally credited in the Issuer accounts managed by BMV, where it may be converted in ETH or Stable Coin (€), depending on the issuers prefference.
+The revenue of the sales will be finally credited in the Issuer accounts managed by BMV, where it may be converted in ETH, fiat or Stable Coin (€), depending on the issuers prefference.
 
 The **MDTCoins** purchased will generate revenue for the BMV Participants and will be used:
 
-⦁ To support the global operations structure, namely (i) in the expansion of the capacity and customization of the registry platform to accommodate other international environmental assets; (ii) improvements in the physical structure of the European branch, as well to support required technical and legal fees and; (iii) Inventory and methodological customization to originate European stocks
+⦁ To support the global operations structure in:
+
+1. The expansion of the capacity and customization of the registry platform to accommodate other international environmental assets;
+2. Improvements in the physical structure of the European branch, as well to support required technical and legal fees and;
+3. R\&D of methodologies to fit European ESG demands.
 
 ⦁ Viability of the Projects which conciliate the keeping of native forest with financing of equipment and input for sustainable production;
 
