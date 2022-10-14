@@ -22,8 +22,8 @@ The website also contains a number of relevant information regarding recent tran
 
 ![Logotipo
 
-Descripción generada automáticamente](<../.gitbook/assets/0 (1)>)
+Descripción generada automáticamente](../.gitbook/assets/0)
 
 We value lives, and, together, we preserve the Planet.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (6).png>)

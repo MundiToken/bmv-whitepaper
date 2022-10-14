@@ -10,7 +10,7 @@ Initially called Matic Network, India-based Polygon was founded in October 2017 
 
 [Polygon](https://polygon.technology/), formerly known as Matic Network, is a blockchain scalability platform and framework for connecting and building blockchain networks compatible with [Ethereum](https://ethereum.org/en/). The network also refers to itself as “Ethereum’s internet of blockchains” because one of Polygon’s main missions is aggregating scalable solutions to support a multichain Ethereum ecosystem.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (16).png>)
 
 ### <mark style="color:purple;">Why Polygon</mark>
 

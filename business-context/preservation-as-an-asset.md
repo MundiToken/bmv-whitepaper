@@ -1,4 +1,4 @@
-# 🌄 Preservation as an asset
+# ☀ Preservation as an asset
 
 This process gives origin to Forest Credits which are incorporated in Sustainability Credit Units – the UCS. This is the asset that is represented by our token and is used for many businesses and individuals for offsetting its environmental impact.
 
@@ -31,4 +31,4 @@ Each time an inventory is made, the units are embodied as a security, the _Cédu
 | 23     | Enables recurring income to credit originator     |  ​             ✅                                   |                                                     |
 | 24     | Legal certainty to credit consumer                |  ​             ✅                                   |                                                     |
 
-![BMV Workflow - shows how is process and actors involved](<../.gitbook/assets/image (10).png>)
+![BMV Workflow - shows how is process and actors involved](<../.gitbook/assets/image (20).png>)

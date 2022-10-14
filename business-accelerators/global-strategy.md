@@ -1,10 +1,16 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1476304884326-cd2c88572c5f?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHx3b3JsZHxlbnwwfHx8fDE2NjM3NzgwNjc&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
 # 🌐 Global strategy
 
 Due to the international recognition of the work and achievements of the BMV network throughout the world, we spread our teams and engaged in projects in many other countries.
 
 In Europe, BMV Portugal was established in 2017 and developed a matching strategy and methodology to be used for the origination of units in the Iberian Peninsula and further across Europe.
 
-![](<../.gitbook/assets/image (8) (1).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 In the ICO, BMV Portugal will be responsible for the Token management and for controlling all the aspects of the Token structure. It will be the bridge between the UCS and purchasers that show a great appetite for qualified and innovative products in the European Continent.
 

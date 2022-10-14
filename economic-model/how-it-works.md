@@ -6,4 +6,4 @@ coverY: -587.7706333973128
 
 # ⚙ How it works
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (14).png>)

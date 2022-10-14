@@ -34,5 +34,5 @@ _Regulatory and bills that recognizes UCS and creates benefits to companies with
 
 In April 8th, 2020, the Brazilian National Congress approved the Law 13.986/2020 that explicitly provides for the conservation of native forests and the respective biomes as a rural product. While it is a major advance in the Brazilian environmental law for the protection of forests in rural properties, it only states what BMV has been doing for years.
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (3).png>)
 

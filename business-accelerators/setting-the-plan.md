@@ -1,4 +1,10 @@
-# 🔦 Setting the plan
+---
+cover: >-
+  https://images.unsplash.com/photo-1527219525722-f9767a7f2884?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxwbGFufGVufDB8fHx8MTY2Mzc3Nzk1Mw&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
+# 🔰 Setting the plan
 
 For each Nucleus a Sustainability Development Plan (or “Plano de Desenvolvimento Sustentável” or PDS in Portuguese) is created with the technical support and direction from BMV. In this document are present all the investment guidelines towards the implementation of a sustainable land-use economic model. Based on thorough research and dialogue with the community, it presents an alternative for land occupation that relies largely on extensive areas of human interference.
 

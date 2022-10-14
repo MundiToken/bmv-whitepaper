@@ -12,4 +12,4 @@ Businesses should take measures to contribute and compensate their impact, socia
 
 Governments must end the systematic short-term decision making and adopt a vision of continuity and long-term results.
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (18).png>)

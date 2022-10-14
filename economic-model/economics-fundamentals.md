@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# 💰 Economics Fundamentals
+# 💵 Economics Fundamentals
 
 In an Ideal World there will be one model that serves all the different ecosystem purposes, unfortunately we do not live in an Ideal World and there's no ideal ecosystem that fits all the crypto ecosystems so when it comes to token there isn't one ideal token economy. We cannot take a model that could fit in all your different ecosystems. With that being said, there are economic frameworks available. We'll talk about different perspectives and different aspects and principles to apply into building your ecosystem.
 

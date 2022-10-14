@@ -12,11 +12,11 @@ All the amount gathered in the ICO will be directed at the purchase of UCS . Eac
 
 Table 3 - BMTCA Platform UCS trade historical price snapshot 5th March 2020
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 ### Offsetting
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (22).png>)
 
 (1) BMV Portugal issues Munditokens corresponding to 1/10th of the number UCS to be bought after the ICO. Purchasers subscribe Tokens by delivering ETH or Stable Coins. In the specified delivery date, the Issuer provides the Purchaser with Tokens;
 
@@ -28,7 +28,7 @@ Table 3 - BMTCA Platform UCS trade historical price snapshot 5th March 2020
 
 (4) For each Token used for the offset, 10 UCS are retired from the distributed ledger registry, which avoids risks of double counting.
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 * The Token is backed by a financial and environmental asset, different from the most part of offered Tokens that have no intrinsic value;
 * Access to the increasingly growing market of environmental assets, driven by structured demand of public policies or voluntary offsetting;

@@ -6,15 +6,31 @@ coverY: 0
 
 # 🧘♀ Balance & Hedging
 
-### <mark style="color:purple;">**Economy Balance control**</mark>
+### <mark style="color:purple;">**Economy Equilibrium**</mark>
 
-The same concept will apply to MDTCoin for the Mintin & Unminting process in order to control inflation and currency deflation. One of the main objectives is to control the "whales" that are characterized by buying a large majority of the tokens to generate a contained demand and cause the price of the token to increase.
+Equilibrium is the state in which market supply and demand balance each other, and as a result prices become stable. Generally, an over-supply of goods or services causes prices to go down, which results in higher demand—while an under-supply or shortage causes prices to go up resulting in less demand.
 
-Thanks to the OBVMA algorithm, which can be executed every hour or twice a day, it will examine how many tokens were issued and analyze the balance of each one of the portfolios. If one of the portfolios has more than X percent (it was thought in 20%) of the total of **MDTCoin**, the strategy will be to perform a delta minting that the "whale" has. That is, if a portfolio makes a purchase of 18% of total tokens in less than a day, OBVMA will realize a mint of between 10-18% to compensate that purchase and avoid that there is a contained demand that could risk that the token becomes a speculative and highly variable asset.
+The balancing effect of supply and demand results in a state of equilibrium.
 
-At the moment that the "whale" releases the tokens, the same algorithm will analyze the amount of daily movement of tokens and send them to the central bank to carry out a process of destruction or expiration. These tokens can enter a state of "limbo" waiting to be released to compensate the purchase of another "whale" or deliver it to users gradually, following demand policies for the organic growth of the economy.
+Economists find that prices tend to fluctuate around the equilibrium levels. If the price rises too high, market forces will incentivize sellers to come in and produce more. If the price is too low, additional buyers will bid up the price. These activities keep the equilibrium level in relative balance over time.
+
+The same principle applies to MDT for the Minting & Burning process in order to control inflation and currency deflation. One of the main objectives is to control "whales" that are characterized by buying a large majority of the tokens to generate supressed demand and cause the price of the token to increase to dump it later.
+
+An OBVMA (OnBalance Volume Minting Algorithm) script, is planned to run each hour or twice a day. The algorithm will examine issued token volume and check customers portfolio balance. If one of the portfolios has more than X percent (around 20%) of the total volume of **MDTCoin**, the algorithm will mint the delta. That is, if a portfolio makes a purchase of 18% of total tokens in less than a day, OBVMA will mint of between 10-18% to compensate that purchase in order to avoid a pumping strategy due to supressed market demand, forcing the whale to releases the tokens at a reasonable price. OVBMA will burn tokens to overcome inflation.
 
 ### <mark style="color:purple;">Inflation and Burning Policy</mark>
+
+#### <mark style="color:green;">Inflation</mark>
+
+Inflation is the effect of money losing its value. Why does any good lose its value? One reason could be that there is too much of it. We call this oversupply. If we have an oversupply of money, it starts losing its value. But, is a lot of coin supply good or bad? It’s neither. But it will depend on how BMV policies controle this inflation.
+
+All cryptocurrencies experience inflation. For some, the inflation rate can be less than 1%, while for others, it can exceed 10%. Moderate level of inflation can drive coin spending, help grow the economy, and prevent people from holding on to their coins for too long.
+
+OBVMA analyze the offer/ demand volume and might release coins through flash discounts. This strategy will raise customer engagement and will control indexed price as well as free market total supply.
+
+The maximum expected inflation levels are of 20% on the first year, 10% for the second and less than 5% for the third year considering token deflation in subsequent years as market adopts ESG tokens as a financial standard.
+
+<mark style="color:green;">**Burning**</mark>
 
 “Burning” **MDTCoin** means permanently removing a number of tokens from circulation. This is typically done by transferring the tokens in question to a burn address, i.e. a wallet from which they cannot ever be retrieved. This is often described as destroying tokens. A project burns its tokens to reduce the overall supply. In other words, it creates a "deflationary" event.
 

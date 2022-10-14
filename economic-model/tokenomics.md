@@ -4,7 +4,7 @@ cover: >-
 coverY: 345.0095969289828
 ---
 
-# 💵 Tokenomics
+# 🪙 Tokenomics
 
 Tokenomics includes all activities that deal with a coin or token in some way and covers all elements of a cryptocurrency's creation, management, and sometimes removal from a network.
 
@@ -141,7 +141,7 @@ The Initial Token Sale for MDTCoin may follow an Interactive mechanism as descri
 | Reserves            | Not minted                            | 800.000.000     | 80      |
 | **Total**           | **CAP**                               | **100.000.000** | **100** |
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p><em><strong>Token distribution</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p><em><strong>Token distribution</strong></em></p></figcaption></figure>
 
 ### <mark style="color:purple;">Secondary Token Sale through conventional marketplaces</mark>
 

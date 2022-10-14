@@ -5,7 +5,7 @@ coverY: 0
 
 # 🍃 Welcome to BMV
 
-![](<.gitbook/assets/0 (2)>)
+![](<.gitbook/assets/0 (1)>)
 
 ### <mark style="color:purple;">Introduction</mark>
 
