@@ -10,7 +10,7 @@ coverY: -411.13243761996165
 
 ## Maria Tereza Umbelino
 
-:point\_right:**Chief Executive Officer** — 💌 xxx@xxxx.com
+:point\_right:**Chief Executive Officer** — 💌 xxx@xxx.com
 
 ![](../.gitbook/assets/maria\_tereza.png)
 
